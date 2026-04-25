@@ -1,6 +1,6 @@
 ### Hi, I'm Bingo 👋
 
-I build software at the intersection of AI and data.
+Passionate reader. Also building software on the side.
 
 Currently:
 - Building [Forki](https://forki.app), a consumer AI food-logging app for college students and early professionals
