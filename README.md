@@ -9,3 +9,4 @@ Currently:
 - Finishing my MSBA at USC Marshall (graduating May 2026)
 
 You can read more at my [portfolio](https://portfolio-three-rosy-mhf1ko9mxs.vercel.app/) or reach me at wutthichai.upatising@gmail.com.
+
