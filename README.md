@@ -1,6 +1,6 @@
 ### Hi, I'm Bingo 👋
 
-Passionate reader. Also building software on the side.
+Avid reader of biographies. Also building software on the side.
 
 Currently:
 - Building [Forki](https://forki.app), a consumer AI food-logging app for college students and early professionals
