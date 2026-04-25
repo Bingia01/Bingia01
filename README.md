@@ -1,4 +1,4 @@
-### Hi, I'm Bingo 👋
+### Hi, I'm Bingo
 
 Avid reader of biographies. Also building software on the side.
 
