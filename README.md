@@ -6,6 +6,6 @@ Currently:
 - Building [Forki](https://forki.app), a consumer AI food-logging app for college students
 - Maintaining [HYPE Skills](https://github.com/Bingia01/hyperliquid-security-skills), open-source security tooling for Hyperliquid.
 - Core Contributor at Shepherd AI, persistent security for protocols
-- MSBA at USC Marshall
+- MS @USC
 
 You can read more at me at bingoupatising.com or reach me at wutthichai.upatising@gmail.com.
